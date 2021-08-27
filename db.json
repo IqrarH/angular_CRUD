@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "Iqrar",
+      "lastName": "Hussain",
+      "email": "iqrah123@gmail.com",
+      "mobile": "76754323",
+      "salary": "776"
+    },
+    {
+      "id": 5,
+      "firstName": "Usman",
+      "lastName": "Hussain",
+      "email": "Hussain@trew.com",
+      "mobile": "87655432",
+      "salary": "133"
+    },
+    {
+      "id": 8,
+      "firstName": "Faisal",
+      "lastName": "Numan",
+      "email": "FN@gamil.com",
+      "mobile": "123456459",
+      "salary": "234546"
+    },
+    {
+      "id": 9,
+      "firstName": "Iqrar",
+      "lastName": "Hussain",
+      "email": "iqrarh@gmail.com",
+      "mobile": "123456789",
+      "salary": "9887"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
